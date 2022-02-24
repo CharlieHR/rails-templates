@@ -7,6 +7,8 @@ Quickly generate a rails app with:
  - Simple_form_for
  - Bootstrap 5
  - Stimulus
+ - Webpacker
+ - PGSQL DB
 
 
 ## How to use
